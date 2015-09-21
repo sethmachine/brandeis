@@ -1,0 +1,1 @@
+This project contains a repository of all material completed for courses taken at Brandeis University by the author (sethmachine01@gmail.com).  The trunk is organized by course type: Computer Science (cosi), Linguistics (ling), and Humanities (hum).
